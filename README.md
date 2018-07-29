@@ -34,4 +34,4 @@ DbName = "sono_mysql"
 ./sono ../conf/conf.toml
 ```
 ### 3.3 单测
-框架集成了goCheck测试框架，完善了go单测的功能。
+为方便开发者使用，框架集成了goCheck测试框架，完善了go单测的功能。
