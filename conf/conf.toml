@@ -1,0 +1,15 @@
+[log]
+dir = "./logs"
+
+[Mysql]
+UserName = "sonofelice"
+Password = "123456"
+IpHost = "127.0.0.1:8902"
+DbName = "sonofelice_mysql"
+
+[Sono]
+Port = ":8065"
+
+[Redis]
+Addr = "127.0.0.1:9000"
+Password = "sono"
